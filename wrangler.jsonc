@@ -1,0 +1,8 @@
+{
+  "name": "flatpak-repo",
+  "compatibility_date": "2026-09-16",
+  "assets": { "directory": "." },
+  "routes": [
+    { "pattern": "flatpak.solucionesconscientes.es", "custom_domain": true }
+  ]
+}
